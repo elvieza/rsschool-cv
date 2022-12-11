@@ -2,7 +2,9 @@
 #### [LinkedIn profile](https://www.linkedin.com/in/natalia-baibikova/)
 *<natalia.baibikova@gmail.com>*
 <hr />
+
 #### **AutoCAD/DRAFTING TECHNICIAN**
+
 Design Engineer with 3+ years of expertise executing technical tasks for complex, multi-million-dollar projects, including but not limited to preparing engineering calculations, outlining construction specifications, creating design sketches and drawings, completing documentation packages complying with company's and industry's standards and codes.
 
 #### **SUMMARY OF QUALIFICATIONS** 
@@ -12,9 +14,11 @@ Design Engineer with 3+ years of expertise executing technical tasks for complex
 * Proficiency in AutoCAD, GeoniCS profile, MS Office (Word, Excel, PowerPoint)
 
 #### **EDUCATION**
-**Master's degree** - Diploma of engineer with specialization in design, construction and operation of gas and oil pipelines and gas and oil storage facilities (evaluated by WES), *Tyumen State Oil and Gas University*, **2013**
+**Master's degree** - Diploma of engineer with specialization in design, construction and operation of gas and oil pipelines and gas and oil storage facilities (evaluated by WES), 
+*Tyumen State Oil and Gas University*, **2013**
 
-**College-level certificate** - "Translator in the sphere of professional education" (evaluated by WES), *Tyumen State Oil and Gas University*, **2013**
+**College-level certificate** - "Translator in the sphere of professional education" (evaluated by WES), 
+*Tyumen State Oil and Gas University*, **2013**
 
 #### **WORK EXPERIENCE**
 **Engineer of the Technological Department (contract)**, **05/2019-12/2019**

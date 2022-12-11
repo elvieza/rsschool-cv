@@ -1,8 +1,9 @@
+![Natasha](https://user-images.githubusercontent.com/75206651/206912739-fb851a7e-cf69-4fd7-b7bb-1a4b8d04d8d9.jpg)
+
 ## **NATALIA BAIBIKOVA**
 #### [LinkedIn profile](https://www.linkedin.com/in/natalia-baibikova/)
 *<natalia.baibikova@gmail.com>*
 *+995-591-99-23-98*
-![photo](C:/Users/elvie/OneDrive/Documents/Новая папка/готово для загрузки/Natasha.jpg)
 <hr />
 
 #### **AutoCAD/DRAFTING TECHNICIAN**

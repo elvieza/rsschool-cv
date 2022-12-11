@@ -1,6 +1,8 @@
 ## **NATALIA BAIBIKOVA**
 #### [LinkedIn profile](https://www.linkedin.com/in/natalia-baibikova/)
 *<natalia.baibikova@gmail.com>*
+*+995-591-99-23-98*
+![photo](C:/Users/elvie/OneDrive/Documents/Новая папка/готово для загрузки/Natasha.jpg)
 <hr />
 
 #### **AutoCAD/DRAFTING TECHNICIAN**
@@ -12,6 +14,7 @@ Design Engineer with 3+ years of expertise executing technical tasks for complex
 * Competent providing training to the junior level technicians on AutoCAD advanced features, benchmarks and requirements for the engineering drawings
 * Master's Degree in Engineering with specialization in design, construction and operation of gas and oil pipelines and gas and oil storage facilities (WES evaluated)
 * Proficiency in AutoCAD, GeoniCS profile, MS Office (Word, Excel, PowerPoint)
+* Programming languages:​ Python, JavaScript, SQL, MySQL, XPath, [codewars profile](https://www.codewars.com/users/elvieza)
 
 #### **EDUCATION**
 **Master's degree** - Diploma of engineer with specialization in design, construction and operation of gas and oil pipelines and gas and oil storage facilities (evaluated by WES), 

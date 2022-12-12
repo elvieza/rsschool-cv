@@ -3,7 +3,9 @@
 ## **NATALIA BAIBIKOVA**
 #### [LinkedIn profile](https://www.linkedin.com/in/natalia-baibikova/)
 *<natalia.baibikova@gmail.com>*
+
 *+995-591-99-23-98*
+*Kobuleti, Georgia*
 <hr />
 
 #### **AutoCAD/DRAFTING TECHNICIAN**

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+</head>
+    
+<body>
+    <header>
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                <li class="nav-item"><a href="#code" class="nav-link">Code example</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container-0">
+            <img src="Natasha.jpg" alt="photo" width="280">
+            <h1>Natalia Baibikova</h1>
+            <section id="contacts">
+                <h2>Contact details:</h2>
+                <ul>
+                    <li> natalia.baibikova@gmail.com </li>
+                    <li>+995-591-99-23-98</li>
+                    <li><a href="https://www.linkedin.com/in/natalia-baibikova/"> LinkedIn </a></li>
+                    <li><a href="https://github.com/elvieza"> GitHub profile</a> </li>
+                    <li><a href="https://www.codewars.com/users/elvieza"> Codewars profile</a> </li>
+                </ul> 
+            </section>
+        </div>
+        <div class="container">    
+        <section class="section" id="summary">
+            <h2>AutoCAD/DRAFTING TECHNICIAN</h2>
+            <p>Design Engineer with 3+ years of expertise executing technical tasks for complex, multi-million-dollar projects, including but not limited to preparing engineering calculations, outlining construction specifications, creating design sketches and drawings, completing documentation packages complying with company's and industry's standards and codes.</p>
+        </section>
+
+        <section class="section" id="skills">
+            <h2>SUMMARY OF QUALIFICATIONS</h2>
+            <ul>
+                <li>Experienced building 2D/3D structural engineering models</li>
+                <li>Competent providing training to the junior level technicians on AutoCAD advanced features, benchmarks and requirements for the engineering drawings</li>
+                <li>Master's Degree in Engineering with specialization in design, construction and operation of gas and oil pipelines and gas and oil storage facilities (WES evaluated)</li>
+                <li>Proficiency in AutoCAD, GeoniCS profile, MS Office (Word, Excel, PowerPoint)</li>
+                <li>Programming languages: Python, JavaScript, SQL, MySQL, XPath</li>
+            </ul>
+        </section>
+
+        <section class="section" id="education">
+            <h2>EDUCATION</h2>
+            <ul>
+                <li><p>Master's degree- Diploma of engineer with specialization in design, construction and operation of gas and oil pipelines and gas and oil storage facilities (evaluated by WES),</p>
+                    <p>(Tyumen State Oil and Gas University, 2013)</p></li>
+                <li><p>College-level certificate - Translator in the sphere of professional education (evaluated by WES),</p>
+                <p>(Tyumen State Oil and Gas University, 2012)</p></li>
+            </ul>
+        </section>
+        <section class="section" id="languages">
+            <h2>Languages</h2>
+            <ul>
+                <li>Russian (native)</li>
+                <li>English (C2 level, IELTS certificate) </li>
+                <li>German (A1 level)</li>
+            </ul>
+        </section>
+        </div>
+
+        <section class="section" id="code">
+            <h3>Code examle of <a href="https://www.codewars.com/kata/55c04b4cc56a697bb0000048">Codewars task:</a> </h3>
+            <code>
+            <pre>
+            def scramble(s1, s2):
+                for c in set(s2):
+                if s1.count(c) < s2.count(c):
+                    return False
+            return True
+            </pre>
+            </code>
+        </section>
+    </main>
+
+    <footer>
+        <p>Link to <a href="https://github.com/elvieza/">GitHub</a> profile</p>
+        <p>Link to <a href="https://rs.school/js/">RS course</a></p>
+        <img src="https://rs.school/images/rs_school_js.svg" alt="RS school logo" width="80">
+    </footer>
+</body>
+</html>
